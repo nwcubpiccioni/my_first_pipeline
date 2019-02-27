@@ -8,5 +8,4 @@ node {
 	stage ('stage3') {
 		sh 'echo "Stage3 automation. Really wish I'd set this up on my jumpbox"'
 	}
-
 }
